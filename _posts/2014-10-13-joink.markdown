@@ -1,9 +1,0 @@
----
-layout: post
-title:  "joink!"
-date:   2014-10-13 23:16:18
-categories: jekyll update
----
-
-JOINK!
-
