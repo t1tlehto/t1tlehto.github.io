@@ -2,8 +2,8 @@
 title: Tarmo's blog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  I started Android development summer of 2014 after wanted to look into it for some years. 
-  Now I'm ready to publish my first app to Google Play Store.
+  I started Android development summer of 2014 after wanting to look into it for some years. 
+  Now I'm ready to publish my first app on Google Play Store.
   Here are some thoughts on what's happened and what I've learned.
   
 baseurl: "" # the subpath of your site, e.g. /blog/
