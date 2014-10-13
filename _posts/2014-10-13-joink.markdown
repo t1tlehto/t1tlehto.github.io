@@ -1,7 +1,12 @@
 ---
 layout: post
-title:  "Joink!"
-date:   2014-10-13 21:11:18
+title: "Joink!"
+date: {}
 categories: jekyll update
+published: true
 ---
-joink
+
+## h2 otsikko
+
+### badabing
+
